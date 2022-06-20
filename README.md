@@ -1,4 +1,13 @@
 ## Olá, eu sou Ricardo Hendges, professor e criador de conteúdo de programação!
+> Atualmente atuo como Arquiteto de Soluções WEB pelo Grupo Dass e sou professor na Horus Faculdades.
+>> Trabalhando ativamente no Grupo Dass com tecnologias como Nodejs, Vue, Docker, Jenkins e K8s.
+>> Trazendo para o time uma melhor organização e adotando padrões no trabalho de todo projeto WEB.
+>> Organizando todo monitoramento e controle de CI/CD dos projetos, cobertura de testes unitários e buscando melhorias nos fluxos de desenvolvimento.
+
+>> Professor de Algoritmos de programação I e II, Linguagem de programação III, Linguagem de programação Visual e IA.
+
+>> Dev de games nas horas vagas com Unity 3D e atualmente buscando soluções para JS.
+
 <div align="center">
   <a href="https://github.com/ricardohendges">
   <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardohendges&show_icons=true&theme=merko&include_all_commits=true&count_private=true">
@@ -11,11 +20,12 @@
   <img align="center" alt="Ricardo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ricardo-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Ricardo-jenkins" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="Ricardo-JEST" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
   <img align="center" alt="Ricardo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Ricardo-k8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
 </div>
-  
-  ##
+
+##
  
 <div> 
   <a href="https://www.instagram.com/ricardojhendges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
