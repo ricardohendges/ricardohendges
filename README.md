@@ -1,4 +1,4 @@
-## Olá, eu sou Ricardo Hendges, professor e criador de conteúdo de programação!
+## Olá, me chamo Ricardo Hendges!
 > Atualmente atuo como Arquiteto de Soluções WEB pelo Grupo Dass e sou professor na Horus Faculdades.
 >> Trabalhando ativamente no Grupo Dass com tecnologias como Nodejs, Vue, Docker, Jenkins e K8s.
 >> Trazendo para o time uma melhor organização e adotando padrões no trabalho de todo projeto WEB.
