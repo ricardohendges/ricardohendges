@@ -1,4 +1,4 @@
-## Olá, eu sou Ricardo Hendges, professor e criador de conteúdo de programação e tecnologia!
+## Olá, eu sou Ricardo Hendges, professor e criador de conteúdo de programação!
 <div align="center">
   <a href="https://github.com/ricardohendges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardohendges&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
